@@ -1,4 +1,4 @@
-# Prerequsit
+# Prerequisite
 ## The following tutorial will explain how to make your player move in Unity 3D. This includes the character moving in multiple directions and being able to jump.
 # Copyright
 ## I followed this tutorial from Paul to create the code
